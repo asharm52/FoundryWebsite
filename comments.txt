@@ -1,0 +1,23 @@
+Background photo is noticeably grainy
+
+Color palette feels desaturated, especially the orange
+
+The Blog section links to itself
+
+Page feels like it loads slowly.
+
+There should be a little more at the bottom. More grey space, a footer, disclaimers/copyrights?
+
+Sponsors do not trigger consistantly. Google is grey, but the 3Red is white. Also looks like you have 3 sponsors, and the hitbox for triggering 3Red is inconsistent with what is visible.
+
+Image of the campus/"people love this class" look like they should illuminate when moused over.
+
+I disapprove of inline css, but okay.
+
+some pages not reactive.
+
+CS196@uiuc and billion dollar ideas seem unreliably formatted. I would not recommend text-align right since it can shift to an awkward position.
+
+Contacts page needs more contrast
+
+unresponsive to mobile
